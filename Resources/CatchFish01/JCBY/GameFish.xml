@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<client>
+  <sprite type="fish" id="995" name="" firstName="plate1_01.png" commonName="plate1_0" frameCount="1" loop="-1" duration="0.1" rectwidth="183" rectheight="555" xPos="0" yPos="0" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="996" name="" firstName="plate2_01.png" commonName="plate2_0" frameCount="1" loop="-1" duration="0.1" rectwidth="412" rectheight="200" xPos="0" yPos="0" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="997" name="" firstName="plate3_01.png" commonName="plate3_0" frameCount="1" loop="-1" duration="0.1" rectwidth="214" rectheight="214" xPos="0" yPos="0" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="998" name="" firstName="plate4_01.png" commonName="plate4_0" frameCount="1" loop="-1" duration="0.1" rectwidth="145" rectheight="146" xPos="0" yPos="0" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="999" name="" firstName="plate5_01.png" commonName="plate5_0" frameCount="1" loop="-1" duration="0.1" rectwidth="202" rectheight="197" xPos="0" yPos="0" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1000" name="" lockScale="1.0f" mutiple="2" firstName="fish0_01.png" commonName="fish0_0" frameCount="12" loop="-1" duration="0.1" rectwidth="89" rectheight="32" xPos="0" yPos="0" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1001" name="" lockScale="1.0f" mutiple="2" firstName="fish1_01.png" commonName="fish1_0" frameCount="8" loop="-1" duration="0.1" rectwidth="64" rectheight="32" xPos="10" yPos="7" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1002" name="" lockScale="1.0f" mutiple="3" firstName="fish2_01.png" commonName="fish2_0" frameCount="12" loop="-1" duration="0.1" rectwidth="100" rectheight="62" xPos="20" yPos="10" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1003" name="" lockScale="1.0f" mutiple="4" firstName="fish3_01.png" commonName="fish3_0" frameCount="12" loop="-1" duration="0.1" rectwidth="114" rectheight="67" xPos="25" yPos="10" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1004" name="" lockScale="1.0f" mutiple="5" firstName="fish4_01.png" commonName="fish4_0" frameCount="12" loop="-1" duration="0.1" rectwidth="144" rectheight="51" xPos="25" yPos="7" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1005" name="" scale="0.8f" lockScale="1.0f" mutiple="6" firstName="fish5_01.png" commonName="fish5_0" frameCount="13" loop="-1" duration="0.1" rectwidth="119" rectheight="80" xPos="10" yPos="8" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1006" name="" scale="0.8f" lockScale="1.0f" mutiple="7" firstName="fish6_01.png" commonName="fish6_0" frameCount="30" loop="-1" duration="0.1" rectwidth="160" rectheight="77" xPos="44" yPos="20" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1007" name="" lockScale="1.0f" mutiple="8" firstName="fish7_01.png" commonName="fish7_0" frameCount="10" loop="-1" duration="0.1" rectwidth="139" rectheight="85" xPos="25" yPos="35" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1008" name="" scale="0.8f" lockScale="0.7f" mutiple="9" firstName="fish8_01.png" commonName="fish8_0" frameCount="12" loop="-1" duration="0.1" rectwidth="140" rectheight="70" xPos="32" yPos="12" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1009" name="" lockScale="0.95f" mutiple="10" firstName="fish9_01.png" commonName="fish9_0" frameCount="8" loop="-1" duration="0.1" rectwidth="128" rectheight="139" xPos="25" yPos="20" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1010" name="" scale="0.7f" lockScale="0.65f" mutiple="12" firstName="fish10_01.png" commonName="fish10_0" frameCount="12" loop="-1" duration="0.1" rectwidth="200" rectheight="75" xPos="70" yPos="30" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1011" name="" scale="0.8f" lockScale="0.7f" mutiple="15" firstName="fish11_01.png" commonName="fish11_0" frameCount="12" loop="-1" duration="0.1" rectwidth="158" rectheight="150" xPos="28" yPos="13" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1012" name="" scale="0.85f" lockScale="0.58f" mutiple="18" firstName="fish12_01.png" commonName="fish12_0" frameCount="12" loop="-1" duration="0.1" rectwidth="260" rectheight="80" xPos="47" yPos="25" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1013" name="" scale="0.9f" lockScale="0.5f" mutiple="20" firstName="fish13_01.png" commonName="fish13_0" frameCount="10" loop="-1" duration="0.1" rectwidth="303" rectheight="99" xPos="40" yPos="20" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1014" name="" scale="0.85f" lockScale="0.52f" mutiple="25" firstName="fish14_01.png" commonName="fish14_0" frameCount="12" loop="-1" duration="0.1" rectwidth="237" rectheight="255" xPos="50" yPos="50" included="CatchFish01/jcby1.png"/>
+  <sprite type="fish" id="1015" name="银鲨" scale="0.95f" lockScale="0.45f" mutiple="30" firstName="fish15_01.png" commonName="fish15_0" frameCount="12" loop="-1" duration="0.1" rectwidth="289" rectheight="98" xPos="71" yPos="30" included="CatchFish01/jcby1.png" particle="lan" />
+  <sprite type="fish" id="1016" name="金鲨" lockScale="0.45f" mutiple="35" firstName="fish16_01.png" commonName="fish16_0" frameCount="12" loop="-1" duration="0.1" rectwidth="289" rectheight="98" xPos="71" yPos="30" included="CatchFish01/jcby1.png" particle="lan" />
+  <sprite type="fish" id="1017" name="大金鲨" lockScale="0.3f" mutiple="100" scale="0.85"  firstName="fish17_01.png" commonName="fish17_0" frameCount="9" loop="-1" duration="0.1" rectwidth="393" rectheight="180" xPos="110" yPos="64" included="CatchFish01/jcby2.png"  particle="p1" />
+  <sprite type="fish" id="1018" name="银龙" scale="1.6f" lockScale="0.3f" mutiple="250" firstName="fish18_01.png" commonName="fish18_0" frameCount="8" loop="-1" duration="0.1" rectwidth="529" rectheight="176" xPos="181" yPos="106" included="CatchFish01/jcby2.png"  particle="p2" />
+  <sprite type="fish" id="1019" name="金龙" scale="2.0f" lockScale="0.3f" mutiple="250" firstName="fish19_01.png" commonName="fish19_0" frameCount="8" loop="-1" duration="0.1" rectwidth="529" rectheight="182" xPos="181" yPos="106" included="CatchFish01/jcby2.png"  particle="p2" />
+  <sprite type="fish" id="1020" name="麒麟" scale="0.7f" lockScale="0.3f" mutiple="250" firstName="qilin_01.png" commonName="qilin_0" frameCount="14" loop="-1" duration="0.1" rectwidth="522" rectheight="231" xPos="178" yPos="60" included="CatchFish01/jcby5.png"  particle="y_jin" />
+  <sprite type="fish" id="1021" name="白虎" lockScale="0.3f" mutiple="250" scale="0.85f" firstName="baihu_01.png" commonName="baihu_0" frameCount="8" loop="-1" duration="0.1" rectwidth="485" rectheight="210" xPos="95" yPos="50" included="CatchFish01/jcby3.png"  particle="y_bai" />
+  <sprite type="fish" id="1022" name="海葵" lockScale="0.85f" mutiple="25" scale="0.87" firstName="fish20_01.png" commonName="fish20_0" frameCount="8" loop="-1" duration="0.1" rectwidth="127" rectheight="120" xPos="4" yPos="10" included="CatchFish01/jcby1.png"  particle="ci" />
+  <sprite type="fish" id="1023" name="定海神针" lockScale="0.4f" mutiple="1" scale="0.88" firstName="fish21_01.png" commonName="fish21_0" frameCount="1" loop="-1" duration="0.1" rectwidth="62" rectheight="341" xPos="1" yPos="1" included="CatchFish01/jcby1.png"  particle="dingshen" />
+  <sprite type="fish" id="1024" name="龙珠" lockScale="0.7f" mutiple="1" firstName="fish22_01.png" commonName="fish22_0" frameCount="8" loop="-1" duration="0.1" rectwidth="220" rectheight="220" xPos="60" yPos="60" included="CatchFish01/jcby3.png"  particle="Emitter" />
+  <sprite type="fish" id="1025" name="全屏炸弹" lockScale="0.4f" mutiple="1" firstName="fish23_01.png" commonName="fish23_0" frameCount="5" loop="-1" duration="0.1" rectwidth="167" rectheight="160" xPos="11" yPos="4" included="CatchFish01/jcby3.png"  particle="Emitter"/>
+  <sprite type="fish" id="1026" name="绿蟾" lockScale="0.4f" mutiple="300" firstName="fish24_01.png" commonName="fish24_0" frameCount="6" loop="-1" duration="0.1" rectwidth="222" rectheight="248" xPos="14" yPos="48" included="CatchFish01/jcby2.png" particle="y_lv"/>
+  <sprite type="fish" id="1027" name="金蟾" lockScale="0.4f" mutiple="300" firstName="fish25_01.png" commonName="fish25_0" frameCount="6" loop="-1" duration="0.1" rectwidth="224" rectheight="267" xPos="18" yPos="61" included="CatchFish01/jcby2.png" particle="y_jin" />
+  <sprite type="fish" id="1028" name="大金蟾" lockScale="0.4f" mutiple="330" scale="1.5" firstName="fish26_01.png" commonName="fish26_0" frameCount="9" loop="-1" duration="0.1" rectwidth="254" rectheight="154" xPos="23" yPos="77" included="CatchFish01/jcby3.png" particle="p3" />
+  
+<!--  <sprite type="fish" id="1046" name="五福鱼" lockScale="0.45f" mutiple="35" firstName="fish16_01.png" commonName="fish16_0" frameCount="12" loop="-1" duration="0.1" rectwidth="361" rectheight="162" xPos="130" yPos="74" included="CatchFish01/jcby1.png" particle="wufu" />-->
+
+ <!-- 组合鱼(旋转了270,xy坐标互换)-->
+ <sprite type="fish" id="1030" name="" mutiple="12" scale="1" lockScale="0.36f" firstName="plate4_01.png" commonName="" frameCount="0" loop="-1" duration="0.1" rectwidth="70" rectheight="210" xPos="0" yPos="0" group="1" included="CatchFish01/jcby1.png" particle="j1" >
+	<data spriteid="998" posx="35" posy="35" zorder="-1" rotation="70.0" scale="0.7"/>
+	<data spriteid="998" posx="35" posy="175" zorder="-1" rotation="70.0" scale="0.7"/>
+	<data spriteid="998" posx="35" posy="105" zorder="-1" rotation="70.0" scale="0.7"/>
+    <data spriteid="1003" posx="35" posy="35" zorder="1"  scale="1"/>
+    <data spriteid="1003" posx="35" posy="105" zorder="1"  scale="1"/>
+    <data spriteid="1003" posx="35" posy="175" zorder="1"  scale="1"/>
+  </sprite>
+
+  <sprite type="fish" id="1031" name="" mutiple="16" scale="1" lockScale="0.36f" firstName="plate4_01.png" commonName="" frameCount="0" loop="-1" duration="0.1" rectwidth="70" rectheight="210" xPos="0" yPos="0" group="1" included="CatchFish01/jcby1.png" particle="j1" >
+    <data spriteid="998" posx="35" posy="35" zorder="-1" rotation="70.0" scale="0.7"/>
+	<data spriteid="998" posx="35" posy="175" zorder="-1" rotation="70.0" scale="0.7"/>
+	<data spriteid="998" posx="35" posy="105" zorder="-1" rotation="70.0" scale="0.7"/>
+    <data spriteid="1006" posx="35" posy="35" zorder="1"  scale="1"/>
+    <data spriteid="1006" posx="35" posy="105" zorder="1"  scale="1"/>
+    <data spriteid="1006" posx="35" posy="175" zorder="1"  scale="1"/>
+  </sprite>
+
+  <sprite type="fish" id="1032" name="" mutiple="32" scale="1" lockScale="0.36f" firstName="plate4_01.png" commonName="" frameCount="0" loop="-1" duration="0.1" rectwidth="70" rectheight="280" xPos="0" yPos="0" group="1" included="CatchFish01/jcby1.png" particle="j2"  >
+    <data spriteid="998" posx="35" posy="35" zorder="-1" rotation="70.0" scale="0.7"/>
+	<data spriteid="998" posx="35" posy="175" zorder="-1" rotation="70.0" scale="0.7"/>
+	<data spriteid="998" posx="35" posy="105" zorder="-1" rotation="70.0" scale="0.7"/>
+	<data spriteid="998" posx="35" posy="245" zorder="-1" rotation="70.0" scale="0.7"/>
+    <data spriteid="1007" posx="35" posy="35" zorder="1" scale="0.8" />
+    <data spriteid="1007" posx="35" posy="175" zorder="1" scale="0.8" />
+    <data spriteid="1007" posx="35" posy="105" zorder="1" scale="0.8" />
+    <data spriteid="1007" posx="35" posy="245" zorder="1" scale="0.8" />
+  </sprite>
+
+  <sprite type="fish" id="1033" name="" mutiple="40" scale="1" lockScale="0.36f" firstName="plate4_01.png" commonName="" frameCount="0" loop="-1" duration="0.1" rectwidth="116" rectheight="280" xPos="0" yPos="0" group="1" included="CatchFish01/jcby1.png" particle="j2"  >
+    <data spriteid="998" posx="35" posy="35" zorder="-1" rotation="70.0" scale="0.7"/>
+	<data spriteid="998" posx="35" posy="175" zorder="-1" rotation="70.0" scale="0.7"/>
+	<data spriteid="998" posx="35" posy="105" zorder="-1" rotation="70.0" scale="0.7"/>
+	<data spriteid="998" posx="35" posy="245" zorder="-1" rotation="70.0" scale="0.7"/>
+    <data spriteid="1009" posx="35" posy="35" zorder="1" scale="0.8" />
+    <data spriteid="1009" posx="35" posy="175" zorder="1" scale="0.8" />
+    <data spriteid="1009" posx="35" posy="105" zorder="1" scale="0.8" />
+    <data spriteid="1009" posx="35" posy="245" zorder="1" scale="0.8" />
+  </sprite>
+  <sprite type="fish" id="1034" name="" mutiple="42" lockScale="0.45f" firstName="plate3_01.png" commonName="" frameCount="0" loop="-1" duration="0.1" rectwidth="300" rectheight="300" xPos="0" yPos="0" group="1" included="CatchFish01/jcby1.png" particle="j3"  >
+    <data spriteid="997" posx="150.0" posy="150.0" zorder="-1" rotation="70.0" />
+    <data spriteid="998" posx="230.0" posy="150.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="998" posx="70.0" posy="230.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="998" posx="70.0" posy="70.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1015" posx="150.0" posy="150.0" zorder="1" rotation="0.0" scale="0.7" />
+    <data spriteid="1013" posx="230.0" posy="150.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="1013" posx="70.0" posy="230.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="1013" posx="70.0" posy="70.0" zorder="1" rotation="0.0" scale="0.5" />
+  </sprite>
+
+  <sprite type="fish" id="1035" name="" mutiple="49" lockScale="0.45f" firstName="plate3_01.png" commonName="" frameCount="0" loop="-1" duration="0.1" rectwidth="300" rectheight="300" xPos="0" yPos="0" group="1" included="CatchFish01/jcby1.png" particle="j3" >
+    <data spriteid="997" posx="150.0" posy="150.0" zorder="-1" rotation="70.0" />
+    <data spriteid="998" posx="230.0" posy="150.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="998" posx="70.0" posy="230.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="998" posx="70.0" posy="70.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1015" posx="150.0" posy="150.0" zorder="1" rotation="0.0" scale="0.7" />
+    <data spriteid="1014" posx="230.0" posy="150.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="1014" posx="70.0" posy="230.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="1014" posx="70.0" posy="70.0" zorder="1" rotation="0.0" scale="0.5" />
+  </sprite>
+
+  <sprite type="fish" id="1036" name="" mutiple="90" lockScale="0.45f" firstName="plate3_01.png" commonName="" frameCount="0" loop="-1" duration="0.1" rectwidth="300" rectheight="300" xPos="0" yPos="0" group="1" included="CatchFish01/jcby1.png" particle="j3" >
+    <data spriteid="997" posx="150.0" posy="150.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="998" posx="230.0" posy="230.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="998" posx="70.0" posy="230.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="998" posx="230.0" posy="70.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="998" posx="70.0" posy="70.0" zorder="-1" rotation="70.0" scale="0.7" />
+
+    <data spriteid="1016" posx="150.0" posy="150.0" zorder="1" rotation="0.0" scale="0.7" />
+    <data spriteid="1013" posx="230.0" posy="230.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="1013" posx="70.0" posy="230.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="1013" posx="230.0" posy="70.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="1013" posx="70.0" posy="70.0" zorder="1" rotation="0.0" scale="0.5" />
+  </sprite>
+  
+  <sprite type="fish" id="1037" name="" mutiple="100" lockScale="0.45f" firstName="plate3_01.png" commonName="" frameCount="0" loop="-1" duration="0.1" rectwidth="300" rectheight="300" xPos="0" yPos="0" group="1" included="CatchFish01/jcby1.png" particle="j3" >
+    <data spriteid="997" posx="150.0" posy="150.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="998" posx="230.0" posy="230.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="998" posx="70.0" posy="230.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="998" posx="230.0" posy="70.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="998" posx="70.0" posy="70.0" zorder="-1" rotation="70.0" scale="0.7" />
+
+    <data spriteid="1016" posx="150.0" posy="150.0" zorder="1" rotation="0.0" scale="0.7" />
+    <data spriteid="1014" posx="230.0" posy="230.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="1014" posx="70.0" posy="230.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="1014" posx="230.0" posy="70.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="1014" posx="70.0" posy="70.0" zorder="1" rotation="0.0" scale="0.5" />
+  </sprite>
+  <!--带圈组合鱼-->
+  <sprite type="fish" id="1040" name="" mutiple="2" lockScale="0.55f" firstName="plate5_01.png" commonName="" frameCount="0" loop="-1" duration="0.1" rectwidth="202" rectheight="197" xPos="0" yPos="0" group="1" included="CatchFish01/jcby1.png" particle="Emitter1" >
+    <data spriteid="999" posx="101.0" posy="98.5" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1000" posx="101.0" posy="98.5" zorder="1" rotation="0.0" scale="1.3" />
+  </sprite>
+  <sprite type="fish" id="1041" name="" mutiple="2" lockScale="0.55f" firstName="plate5_01.png" commonName="" frameCount="0" loop="-1" duration="0.1" rectwidth="202" rectheight="197" xPos="0" yPos="0" group="1" included="CatchFish01/jcby1.png" particle="Emitter1" >
+    <data spriteid="999" posx="101.0" posy="98.5" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1001" posx="101.0" posy="98.5" zorder="1" rotation="0.0" scale="1.3" />
+  </sprite>
+  <sprite type="fish" id="1042" name="" mutiple="3" lockScale="0.55f" firstName="plate5_01.png" commonName="" frameCount="0" loop="-1" duration="0.1" rectwidth="202" rectheight="197" xPos="0" yPos="0" group="1" included="CatchFish01/jcby1.png" particle="Emitter1" >
+    <data spriteid="999" posx="101.0" posy="98.5" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1002" posx="101.0" posy="98.5" zorder="1" rotation="0.0" />
+  </sprite>
+  <sprite type="fish" id="1043" name="" mutiple="4" lockScale="0.55f" firstName="plate5_01.png" commonName="" frameCount="0" loop="-1" duration="0.1" rectwidth="202" rectheight="197" xPos="0" yPos="0" group="1" included="CatchFish01/jcby1.png" particle="Emitter1" >
+    <data spriteid="999" posx="101.0" posy="98.5" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1003" posx="101.0" posy="98.5" zorder="1" rotation="0.0" />
+  </sprite>
+  <sprite type="fish" id="1044" name="" mutiple="5" lockScale="0.55f" firstName="plate5_01.png" commonName="" frameCount="0" loop="-1" duration="0.1" rectwidth="202" rectheight="197" xPos="0" yPos="0" group="1" included="CatchFish01/jcby1.png" particle="Emitter1" >
+    <data spriteid="999" posx="101.0" posy="98.5" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1004" posx="101.0" posy="98.5" zorder="1" rotation="0.0" />
+  </sprite>
+  <sprite type="fish" id="1045" name="" mutiple="6" lockScale="0.55f" firstName="plate5_01.png" commonName="" frameCount="0" loop="-1" duration="0.1" rectwidth="202" rectheight="197" xPos="0" yPos="0" group="1" included="CatchFish01/jcby1.png" particle="Emitter1" >
+    <data spriteid="999" posx="101.0" posy="98.5" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1005" posx="101.0" posy="98.5" zorder="1" rotation="0.0" />
+  </sprite>
+  <!--死鱼-->
+  <sprite type="fish" id="1995" name="" fish="0" firstName="plate1s_01.png" commonName="plate1s_0" frameCount="1" loop="12" duration="0.12" rectwidth="252" rectheight="256" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="1996" name="" fish="0" firstName="plate2s_01.png" commonName="plate2s_0" frameCount="1" loop="12" duration="0.12" rectwidth="152" rectheight="152" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="1997" name="" fish="0" firstName="plate3s_01.png" commonName="plate3s_0" frameCount="1" loop="12" duration="0.12" rectwidth="253" rectheight="253" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="1998" name="" fish="0" firstName="plate4s_01.png" commonName="plate4s_0" frameCount="1" loop="12" duration="0.12" rectwidth="252" rectheight="256" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="1999" name="" fish="0" firstName="plate5s_01.png" commonName="plate5s_0" frameCount="1" loop="12" duration="0.12" rectwidth="152" rectheight="152" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3000" name="" fish="1" scale="1.4" firstName="fish0d_01.png" commonName="fish0d_0" frameCount="2" loop="6" duration="0.12" rectwidth="89" rectheight="32" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3001" name="" fish="1" scale="1.4" firstName="fish1d_01.png" commonName="fish1d_0" frameCount="2" loop="6" duration="0.12" rectwidth="64" rectheight="32" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3002" name="" fish="1" scale="1.4" firstName="fish2d_01.png" commonName="fish2d_0" frameCount="2" loop="6" duration="0.12" rectwidth="100" rectheight="62" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3003" name="" fish="1" scale="1.4" firstName="fish3d_01.png" commonName="fish3d_0" frameCount="2" loop="6" duration="0.12" rectwidth="114" rectheight="67" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3004" name="" fish="1" scale="1.3" firstName="fish4d_01.png" commonName="fish4d_0" frameCount="2" loop="6" duration="0.12" rectwidth="114" rectheight="51" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3005" name="" fish="1" scale="1.3" firstName="fish5d_01.png" commonName="fish5d_0" frameCount="2" loop="6" duration="0.12" rectwidth="127" rectheight="93" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3006" name="" fish="1" diedAnimate="1" scale="1.3" firstName="fish6d_01.png" commonName="fish6d_0" frameCount="2" loop="6" duration="0.12" rectwidth="160" rectheight="77" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3007" name="" fish="1" diedAnimate="1" scale="1.3" firstName="fish7d_01.png" commonName="fish7d_0" frameCount="2" loop="6" duration="0.12" rectwidth="142" rectheight="106" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3008" name="" fish="1" diedAnimate="1" scale="1.3" firstName="fish8d_01.png" commonName="fish8d_0" frameCount="2" loop="6" duration="0.12" rectwidth="214" rectheight="118" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3009" name="" fish="1" diedAnimate="0" scale="1.3" firstName="fish9d_01.png" commonName="fish9d_0" frameCount="2" loop="6" duration="0.12" rectwidth="165" rectheight="179" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3010" name="" fish="1" diedAnimate="0" scale="1.3" firstName="fish10d_01.png" commonName="fish10d_0" frameCount="2" loop="6" duration="0.12" rectwidth="215" rectheight="330" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3011" name="" fish="1" diedAnimate="0" scale="1.3" firstName="fish11d_01.png" commonName="fish11d_0" frameCount="2" loop="6" duration="0.12" rectwidth="158" rectheight="158" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3012" name="" fish="1" diedAnimate="0" scale="1.3" firstName="fish12d_01.png" commonName="fish12d_0" frameCount="2" loop="6" duration="0.12" rectwidth="287" rectheight="113" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3013" name="" fish="1" diedAnimate="0" scale="1.4" firstName="fish13d_01.png" commonName="fish13d_0" frameCount="2" loop="6" duration="0.12" rectwidth="321" rectheight="160" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3014" name="" fish="1" diedAnimate="0" scale="1.4" firstName="fish14d_01.png" commonName="fish14d_0" frameCount="2" loop="6" duration="0.12" rectwidth="273" rectheight="306" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3015" name="" fish="1" diedAnimate="0" scale="1.6" firstName="fish15d_01.png" commonName="fish15d_0" frameCount="2" loop="6" duration="0.12" rectwidth="316" rectheight="174" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  <sprite type="fish" id="3016" name="" fish="1" diedAnimate="0" scale="1.6" firstName="fish16d_01.png" commonName="fish16d_0" frameCount="2" loop="6" duration="0.12" rectwidth="340" rectheight="162" xPos="0" yPos="0" included="CatchFish01/jcby4.png" />
+  
+  <sprite type="fish" id="2000" name="" fish="1" diedAnimate="0" scale="1.4" firstName="fish0d_01.png" commonName="fish0d_0" frameCount="2" loop="2" duration="0.12" rectwidth="89" rectheight="32" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2001" name="" fish="1" diedAnimate="0" scale="1.4" firstName="fish1d_01.png" commonName="fish1d_0" frameCount="2" loop="2" duration="0.12" rectwidth="64" rectheight="32" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2002" name="" fish="1" diedAnimate="1" scale="1.4" firstName="fish2d_01.png" commonName="fish2d_0" frameCount="2" loop="2" duration="0.12" rectwidth="100" rectheight="62" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2003" name="" fish="1" diedAnimate="1" scale="1.4" firstName="fish3d_01.png" commonName="fish3d_0" frameCount="3" loop="2" duration="0.12" rectwidth="114" rectheight="67" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2004" name="" fish="1" diedAnimate="1" scale="1.3" firstName="fish4d_01.png" commonName="fish4d_0" frameCount="4" loop="2" duration="0.12" rectwidth="114" rectheight="51" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2005" name="" fish="1" diedAnimate="1" scale="1.3" firstName="fish5d_01.png" commonName="fish5d_0" frameCount="3" loop="2" duration="0.12" rectwidth="127" rectheight="93" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2006" name="" fish="1" diedAnimate="1" scale="1.3" firstName="fish6d_01.png" commonName="fish6d_0" frameCount="3" loop="2" duration="0.12" rectwidth="160" rectheight="77" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2007" name="" fish="1" diedAnimate="1" scale="1.3" firstName="fish7d_01.png" commonName="fish7d_0" frameCount="3" loop="2" duration="0.12" rectwidth="142" rectheight="106" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2008" name="" fish="1" diedAnimate="1" scale="1.3" firstName="fish8d_01.png" commonName="fish8d_0" frameCount="2" loop="2" duration="0.12" rectwidth="214" rectheight="118" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2009" name="" fish="1" diedAnimate="0" scale="1.3" firstName="fish9d_01.png" commonName="fish9d_0" frameCount="6" loop="2" duration="0.12" rectwidth="165" rectheight="179" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2010" name="" fish="1" diedAnimate="0" scale="1.3" firstName="fish10d_01.png" commonName="fish10d_0" frameCount="4" loop="3" duration="0.12" rectwidth="215" rectheight="330" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2011" name="" fish="1" diedAnimate="0" scale="1.3" firstName="fish11d_01.png" commonName="fish11d_0" frameCount="4" loop="3" duration="0.12" rectwidth="158" rectheight="158" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2012" name="" fish="1" diedAnimate="0" scale="1.3" firstName="fish12d_01.png" commonName="fish12d_0" frameCount="3" loop="3" duration="0.12" rectwidth="287" rectheight="113" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2013" name="" fish="1" diedAnimate="0" scale="1.4" firstName="fish13d_01.png" commonName="fish13d_0" frameCount="3" loop="3" duration="0.12" rectwidth="321" rectheight="160" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2014" name="" fish="1" diedAnimate="0" scale="1.4" firstName="fish14d_01.png" commonName="fish14d_0" frameCount="4" loop="2" duration="0.12" rectwidth="273" rectheight="306" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2015" name="" fish="1" diedAnimate="0" scale="1.6" firstName="fish15d_01.png" commonName="fish15d_0" frameCount="2" loop="6" duration="0.12" rectwidth="316" rectheight="174" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2016" name="" fish="1" diedAnimate="0" scale="1.6" firstName="fish16d_01.png" commonName="fish16d_0" frameCount="2" loop="6" duration="0.12" rectwidth="340" rectheight="162" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2017" name="" fish="1" diedAnimate="0"scale="1.2" firstName="fish17d_01.png" commonName="fish17d_0" frameCount="2" loop="3" duration="0.1" rectwidth="260" rectheight="294" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2018" name="" fish="1" diedAnimate="0"scale="1.2" firstName="fish18d_01.png" commonName="fish18d_0" frameCount="1" loop="16" duration="0.1" rectwidth="260" rectheight="294" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2019" name="" fish="1" diedAnimate="0"scale="2.2" firstName="fish19d_01.png" commonName="fish19d_0" frameCount="1" loop="16" duration="0.1" rectwidth="260" rectheight="294" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2020" name="" fish="1" diedAnimate="0"scale="1.2" firstName="qilind_01.png" commonName="qilind_0" frameCount="2" loop="4" duration="0.1" rectwidth="260" rectheight="294" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2021" name="" fish="1" diedAnimate="0"scale="1.2" firstName="baihud_01.png" commonName="baihud_0" frameCount="2" loop="4" duration="0.1" rectwidth="260" rectheight="294" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2023" name="" fish="1" diedAnimate="0"scale="1.2" firstName="fish21d_01.png" commonName="fish21d_0" frameCount="1" loop="16" duration="0.1" rectwidth="260" rectheight="294" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  
+  <sprite type="fish" id="2026" name="" fish="1" diedAnimate="0"scale="1.5" firstName="fish24d_01.png" commonName="fish24d_0" frameCount="2" loop="8" duration="0.1" rectwidth="249" rectheight="312" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+  <sprite type="fish" id="2027" name="" fish="1" diedAnimate="0"scale="1.5" firstName="fish25d_01.png" commonName="fish25d_0" frameCount="2" loop="8" duration="0.1" rectwidth="249" rectheight="312" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+ <sprite type="fish" id="2028" name="" fish="1" diedAnimate="0"scale="2.5" firstName="fish26d_01.png" commonName="fish26d_0" frameCount="1" loop="16" duration="0.1" rectwidth="260" rectheight="294" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>
+ 
+<!-- <sprite type="fish" id="2046" name="" fish="1" diedAnimate="1" scale="1.6" firstName="fish16_01.png" commonName="fish16_0" frameCount="2" loop="6" duration="0.12" rectwidth="340" rectheight="162" xPos="0" yPos="0" included="CatchFish01/jcby4.png"/>-->
+
+  
+  <sprite type="fish" id="2030" name="" mutiple="12" scale="0.8" lockScale="0.36f" firstName="plate1s_01.png" commonName="" frameCount="2" loop="3" duration="0.12" rectwidth="110" rectheight="330" xPos="0" yPos="0" group="1" included="CatchFish01/jcby4.png" particle="j1" >
+	<data spriteid="1998" posx="55" posy="55" zorder="-1" rotation="70.0" scale="1.1"/>
+	<data spriteid="1998" posx="55" posy="275" zorder="-1" rotation="70.0" scale="1.1"/>
+	<data spriteid="1998" posx="55" posy="165" zorder="-1" rotation="70.0" scale="1.1"/>
+    <data spriteid="3003" posx="55" posy="55" zorder="1"  scale="1.1"/>
+    <data spriteid="3003" posx="55" posy="165" zorder="1"  scale="1.1"/>
+    <data spriteid="3003" posx="55" posy="275" zorder="1"  scale="1.1"/>
+  </sprite>
+
+  <sprite type="fish" id="2031" name="" mutiple="16" scale="0.8" lockScale="0.36f" firstName="plate1s_01.png" commonName="" frameCount="2" loop="3" duration="0.12" rectwidth="110" rectheight="330" xPos="0" yPos="0" group="1" included="CatchFish01/jcby4.png" particle="j1" >
+    <data spriteid="1998" posx="55" posy="55" zorder="-1" rotation="70.0" scale="1.1"/>
+	<data spriteid="1998" posx="55" posy="275" zorder="-1" rotation="70.0" scale="1.1"/>
+	<data spriteid="1998" posx="55" posy="165" zorder="-1" rotation="70.0" scale="1.1"/>
+    <data spriteid="3006" posx="55" posy="55" zorder="1"  scale="1.1"/>
+    <data spriteid="3006" posx="55" posy="275" zorder="1"  scale="1.1"/>
+    <data spriteid="3006" posx="55" posy="165" zorder="1"  scale="1.1"/>
+  </sprite>
+
+  <sprite type="fish" id="2032" name="" mutiple="32" scale="0.8" lockScale="0.36f" firstName="plate2s_01.png" commonName="" frameCount="2" loop="3" duration="0.12" rectwidth="110" rectheight="440" xPos="0" yPos="0" group="1" included="CatchFish01/jcby4.png" particle="j2" >
+    <data spriteid="1998" posx="55.0" posy="55.0" zorder="-1" rotation="70.0" scale="1.1"/>
+	<data spriteid="1998" posx="55.0" posy="275.0" zorder="-1" rotation="70.0" scale="1.1"/>
+	<data spriteid="1998" posx="55.0" posy="165.0" zorder="-1" rotation="70.0" scale="1.1"/>
+	<data spriteid="1998" posx="55.0" posy="385.0" zorder="-1" rotation="70.0" scale="1.1"/>
+    <data spriteid="3007" posx="55.0" posy="55.0" zorder="1" scale="1.1" />
+    <data spriteid="3007" posx="55.0" posy="275.0" zorder="1" scale="1.1" />
+    <data spriteid="3007" posx="55.0" posy="165.0" zorder="1" scale="1.1" />
+    <data spriteid="3007" posx="55.0" posy="385.0" zorder="1" scale="1.1" />
+  </sprite>
+
+  <sprite type="fish" id="2033" name="" mutiple="40" scale="0.8" lockScale="0.36f" firstName="plate2s_01.png" commonName="" frameCount="2" loop="3" duration="0.12" rectwidth="110" rectheight="440" xPos="0" yPos="0" group="1" included="CatchFish01/jcby4.png" particle="j2" >
+    <data spriteid="1998" posx="55.0" posy="55.0" zorder="-1" rotation="70.0" scale="1.1"/>
+	<data spriteid="1998" posx="55.0" posy="275.0" zorder="-1" rotation="70.0" scale="1.1"/>
+	<data spriteid="1998" posx="55.0" posy="165.0" zorder="-1" rotation="70.0" scale="1.1"/>
+	<data spriteid="1998" posx="55.0" posy="385.0" zorder="-1" rotation="70.0" scale="1.1"/>
+    <data spriteid="3009" posx="55.0" posy="55.0" zorder="1" scale="1.1" />
+    <data spriteid="3009" posx="55.0" posy="275.0" zorder="1" scale="1.1" />
+    <data spriteid="3009" posx="55.0" posy="165.0" zorder="1" scale="1.1" />
+    <data spriteid="3009" posx="55.0" posy="385.0" zorder="1" scale="1.1" />
+  </sprite>
+  <sprite type="fish" id="2034" name="" mutiple="42" firstName="fish13d_01.png" commonName="" frameCount="2" loop="3" duration="0.12" rectwidth="300" rectheight="300" xPos="0" yPos="0" group="1" included="CatchFish01/jcby4.png" particle="fijia1" >
+    <data spriteid="1997" posx="150.0" posy="150.0" zorder="-1" rotation="0.0" />
+    <data spriteid="1998" posx="230.0" posy="150.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1998" posx="70.0" posy="230.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1998" posx="70.0" posy="70.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="3015" posx="150.0" posy="150.0" zorder="1" rotation="0.0" scale="0.7" />
+    <data spriteid="3013" posx="230.0" posy="150.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="3013" posx="70.0" posy="230.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="3013" posx="70.0" posy="70.0" zorder="1" rotation="0.0" scale="0.5" />
+  </sprite>
+
+  <sprite type="fish" id="2035" name="" mutiple="49" firstName="fish14d_01.png" commonName="" frameCount="2" loop="3" duration="0.12" rectwidth="300" rectheight="300" xPos="0" yPos="0" group="1" included="CatchFish01/jcby4.png" particle="fijia1" >
+    <data spriteid="1997" posx="150.0" posy="150.0" zorder="-1" rotation="0.0" />
+    <data spriteid="1998" posx="230.0" posy="150.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1998" posx="70.0" posy="230.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1998" posx="70.0" posy="70.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="3015" posx="150.0" posy="150.0" zorder="1" rotation="0.0" scale="0.7" />
+    <data spriteid="3014" posx="230.0" posy="150.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="3014" posx="70.0" posy="230.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="3014" posx="70.0" posy="70.0" zorder="1" rotation="0.0" scale="0.5" />
+  </sprite>
+
+  <sprite type="fish" id="2036" name="" mutiple="90" firstName="fish13d_01.png" commonName="" frameCount="2" loop="3" duration="0.12" rectwidth="300" rectheight="300" xPos="0" yPos="0" group="1" included="CatchFish01/jcby4.png" >
+    <data spriteid="1997" posx="150.0" posy="150.0" zorder="-1" rotation="0.0" scale="0.7" />
+    <data spriteid="1998" posx="230.0" posy="230.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1998" posx="70.0" posy="230.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1998" posx="230.0" posy="70.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1998" posx="70.0" posy="70.0" zorder="-1" rotation="70.0" scale="0.7" />
+
+    <data spriteid="3016" posx="150.0" posy="150.0" zorder="1" rotation="0.0" scale="0.7" />
+    <data spriteid="3013" posx="230.0" posy="230.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="3013" posx="70.0" posy="230.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="3013" posx="230.0" posy="70.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="3013" posx="70.0" posy="70.0" zorder="1" rotation="0.0" scale="0.5" />
+  </sprite>
+  
+  <sprite type="fish" id="2037" name="" mutiple="100" firstName="fish14d_01.png" commonName="" frameCount="2" loop="3" duration="0.12" rectwidth="300" rectheight="300" xPos="0" yPos="0" group="1" included="CatchFish01/jcby4.png" >
+    <data spriteid="1997" posx="150.0" posy="150.0" zorder="-1" rotation="0.0" scale="0.7" />
+    <data spriteid="1998" posx="230.0" posy="230.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1998" posx="70.0" posy="230.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1998" posx="230.0" posy="70.0" zorder="-1" rotation="70.0" scale="0.7" />
+    <data spriteid="1998" posx="70.0" posy="70.0" zorder="-1" rotation="70.0" scale="0.7" />
+
+    <data spriteid="3016" posx="150.0" posy="150.0" zorder="1" rotation="0.0" scale="0.7" />
+    <data spriteid="3014" posx="230.0" posy="230.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="3014" posx="70.0" posy="230.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="3014" posx="230.0" posy="70.0" zorder="1" rotation="0.0" scale="0.5" />
+    <data spriteid="3014" posx="70.0" posy="70.0" zorder="1" rotation="0.0" scale="0.5" />
+  </sprite>
+  
+  <sprite type="fish" id="2040" name="" mutiple="2" firstName="fish0d_01.png" commonName="" frameCount="2" loop3="3" duration="0.12" rectwidth="210" rectheight="213" xPos="0" yPos="0" group="1" included="CatchFish01/jcby4.png" >
+    <data spriteid="1999" posx="105.0" posy="106.5" zorder="-1" rotation="70.0" />
+    <data spriteid="3000" posx="105.0" posy="106.5" zorder="1" rotation="0.0" scale="1.3" />
+  </sprite>
+  <sprite type="fish" id="2041" name="" mutiple="2" firstName="fish1d_01.png" commonName="" frameCount="2" loop="3" duration="0.12" rectwidth="210" rectheight="213" xPos="0" yPos="0" group="1" included="CatchFish01/jcby4.png" >
+    <data spriteid="1999" posx="105.0" posy="106.5" zorder="-1" rotation="70.0" />
+    <data spriteid="3001" posx="105.0" posy="106.5" zorder="1" rotation="0.0" scale="1.3" />
+  </sprite>
+  <sprite type="fish" id="2042" name="" mutiple="3" firstName="fish2d_01.png" commonName="" frameCount="2" loop="3" duration="0.12" rectwidth="210" rectheight="213" xPos="0" yPos="0" group="1" included="CatchFish01/jcby4.png" >
+    <data spriteid="1999" posx="105.0" posy="106.5" zorder="-1" rotation="70.0" />
+    <data spriteid="3002" posx="105.0" posy="106.5" zorder="1" rotation="0.0" />
+  </sprite>
+  <sprite type="fish" id="2043" name="" mutiple="4" firstName="fish3d_01.png" commonName="" frameCount="2" loop="3" duration="0.12" rectwidth="210" rectheight="213" xPos="0" yPos="0" group="1" included="CatchFish01/jcby4.png" >
+    <data spriteid="1999" posx="105.0" posy="106.5" zorder="-1" rotation="70.0" />
+    <data spriteid="3003" posx="105.0" posy="106.5" zorder="1" rotation="0.0" />
+  </sprite>
+  <sprite type="fish" id="2044" name="" mutiple="5" firstName="fish4d_01.png" commonName="" frameCount="2" loop="3" duration="0.12" rectwidth="210" rectheight="213" xPos="0" yPos="0" group="1" included="CatchFish01/jcby4.png"  >
+    <data spriteid="1999" posx="105.0" posy="106.5" zorder="-1" rotation="70.0" />
+    <data spriteid="3004" posx="105.0" posy="106.5" zorder="1" rotation="0.0" />
+  </sprite>
+  <sprite type="fish" id="2045" name="" mutiple="6" firstName="fish5d_01.png" commonName="" frameCount="2" loop="3" duration="0.12" rectwidth="210" rectheight="213" xPos="0" yPos="0" group="1" included="CatchFish01/jcby4.png" >
+    <data spriteid="1999" posx="105.0" posy="106.5" zorder="-1" rotation="70.0" />
+    <data spriteid="3005" posx="105.0" posy="106.5" zorder="1" rotation="0.0" />
+  </sprite>
+  
+  <!--特效-->
+  <particle filepath="lan" />
+  <particle filepath="p1" />
+  <particle filepath="p2" />
+  <particle filepath="p3" />
+  <particle filepath="j1" />
+  <particle filepath="j2" />
+  <particle filepath="j3" />
+  <particle filepath="y_bai" />
+  <particle filepath="y_jin" />
+  <particle filepath="y_lv" />
+  <particle filepath="Emitter" />
+  <particle filepath="Emitter1" />
+  <particle filepath="ci" />
+  <particle filepath="dingshen" />
+  <particle filepath="penjinbi" />
+  <particle filepath="wufu" />
+  
+  <!--音效-->
+  <sound id="0" name="背景音乐" filepath="1.mp3" loop="1" />
+  <sound id="1" name="背景音乐" filepath="2.mp3" loop="1" />
+  <sound id="2" name="背景音乐" filepath="3.mp3" loop="1" />
+  <sound id="3" name="背景音乐" filepath="4.mp3" loop="1" />
+  
+ <sound id="9" name="1倍率" filepath="onebarrel.mp3" loop="0" />
+ <sound id="10" name="切换倍率" filepath="changebarrel.mp3" loop="0" />
+ <sound id="11" name="普通开炮" filepath="common_fire.mp3" loop="0" />
+ <sound id="12" name="普通渔网" filepath="common_net.mp3" loop="0" />
+ <sound id="16" name="转盘音效" filepath="bigMultiple.mp3" loop="0" />
+ <sound id="17" name="定屏" filepath="freeze.mp3" loop="0" />
+ <sound id="18" name="特效爆炸" filepath="bomb0.mp3" loop="0" />
+ <sound id="19" name="普通打中鱼银币" filepath="hited2.mp3" loop="0" />
+ <sound id="26" name="普通打中鱼金币" filepath="hited.mp3" loop="0" />
+ <sound id="21" name="长时间未开炮提示" filepath="warningMsc.mp3" loop="0" />
+ <sound id="22" name="闪电" filepath="lightning.mp3" loop="0" />
+ <sound id="23" name="炸弹爆炸" filepath="bomb.mp3" loop="0" />
+ <sound id="30" name="按钮" filepath="button.wav" loop="0" />
+ <sound id="31" name="波浪" filepath="wave.mp3" loop="0" />
+ <sound id="32" name="波浪伴随" filepath="withWave.mp3" loop="0" />
+ <sound id="36" name="能量炮获得" filepath="superGet.mp3" loop="0" />
+ <sound id="37" name="能量炮失去" filepath="superBack.mp3" loop="0" />
+ <sound id="38" name="能量炮开炮" filepath="superFire.mp3" loop="0" />
+ <sound id="39" name="能量炮渔网" filepath="superNet.mp3" loop="0" />
+ 
+ <sound id="96" name="鬼子司令死" filepath="commanderDie.mp3" loop="0" />
+ <sound id="98" name="鬼子士兵死" filepath="soldierDie.mp3" loop="0" />
+ <sound id="99" name="一定会回来的" filepath="IWillBacking.mp3" loop="0" />
+ <sound id="100" name="(男)手下留情" filepath="husha_1.mp3" loop="0" />
+ <sound id="101" name="又被打中" filepath="bianfu_1.mp3" loop="0" />
+ <sound id="102" name="你太狠了" filepath="wugui_1.mp3" loop="0" />
+ <sound id="103" name="上辈子欠你" filepath="denglong_2.mp3" loop="0" />
+ <sound id="104" name="老天爷啊" filepath="jinqiang_2.mp3" loop="0" />
+ <sound id="105" name="你赚太多" filepath="qingting_2.mp3" loop="0" />
+ <sound id="106" name="你又赢了" filepath="jinsha_1.mp3" loop="0" />
+ <sound id="107" name="发大财了" filepath="haitun_1.mp3" loop="0" />
+ <sound id="200" name="(女)就欺负我" filepath="denglong_1.mp3" loop="0" />
+ <sound id="201" name="倒霉总是我" filepath="bianfu_2.mp3" loop="0" />
+ <sound id="202" name="还是被打到" filepath="baisha_2.mp3" loop="0" />
+ <sound id="203" name="哪个不怕死" filepath="wugui_2.mp3" loop="0" />
+ <sound id="204" name="上帝救我" filepath="husha_2.mp3" loop="0" />
+ <sound id="205" name="赢了好多" filepath="haitun_2.mp3" loop="0" />
+ <sound id="206" name="你好厉害" filepath="jinqiang_1.mp3" loop="0" />
+ <sound id="207" name="神枪手吗" filepath="jinsha_2.mp3" loop="0" />
+</client>

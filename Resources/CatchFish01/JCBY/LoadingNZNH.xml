@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<client>
+    <loading nNumberOfSprites="16" />
+    <loading nNumOfCallFuncSps="14" />
+    <loading id="1" name="" filepath="nezha1" />
+    <loading id="2" name="" filepath="nezha2" />
+    <loading id="3" name="" filepath="nezha3" />
+    <loading id="4" name="" filepath="nezha6" />
+    <loading id="9" name="" filepath="fish4" />
+    <loading id="10" name="" filepath="fish6" />
+    <loading id="11" name="" filepath="fish7" />
+    <loading id="12" name="" filepath="fish8" />
+    <loading id="13" name="" filepath="fish9" />
+    <loading id="14" name="" filepath="fish10" />
+    <loading id="15" name="" filepath="fish13" />
+    <loading id="16" name="" filepath="fish16" />
+    <loading id="17" name="" filepath="fish19" />
+    <loading id="18" name="" filepath="paipaile" />
+    <loading id="19" name="" filepath="JCBY/bg10" />
+    <loading id="20" name="" filepath="JCBY/bg11" />
+</client>

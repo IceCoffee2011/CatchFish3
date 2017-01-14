@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<client>
+    <loading nNumberOfSprites="17" />
+    <loading nNumOfCallFuncSps="15" />
+    <loading id="1" name="" filepath="jcby1" />
+    <loading id="2" name="" filepath="jcby2" />
+    <loading id="3" name="" filepath="jcby3" />
+    <loading id="4" name="" filepath="jcby4" />
+    <loading id="5" name="" filepath="jcby5" />
+    <loading id="6" name="" filepath="fish4" />
+    <loading id="7" name="" filepath="fish6" />
+    <loading id="8" name="" filepath="fish7" />
+    <loading id="9" name="" filepath="fish8" />
+    <loading id="10" name="" filepath="fish9" />
+    <loading id="11" name="" filepath="fish10" />
+    <loading id="12" name="" filepath="fish13" />
+    <loading id="13" name="" filepath="fish16" />
+    <loading id="14" name="" filepath="fish19" />
+    <loading id="15" name="" filepath="paipaile" />
+    <loading id="16" name="" filepath="JCBY/bg0" />
+    <loading id="17" name="" filepath="JCBY/bg1" />
+</client>

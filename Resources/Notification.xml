@@ -1,0 +1,12 @@
+<Data>
+    <parm>
+        <delay>0</delay>
+        <time>16:29:00</time>
+        <notice>helloworld</notice>
+    </parm>
+    <parm>
+        <delay>1</delay>
+        <time>3600</time>
+        <notice>helloworld2</notice>
+    </parm>
+</Data>
